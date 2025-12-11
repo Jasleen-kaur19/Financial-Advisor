@@ -77,15 +77,15 @@ Clone the repository:
 ```bash
 git clone https://github.com/Jasleen-kaur19/Financial-Advisor.git
 cd Financial-Advisor
-
+```
 Install dependencies (if requirements.txt exists):
 
 ```bash
 pip install -r requirements.txt
-
+```
 Run the notebook:
 
 ```bash
 jupyter notebook
-
+```
 
